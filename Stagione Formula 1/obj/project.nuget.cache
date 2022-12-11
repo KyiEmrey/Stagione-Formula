@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HnL9EanTHHY2XE2+aP/GahIANCtvtLlIB0Uub+DR93DzaT0AaP/SdlQsek1mJewFC9NTSrBNj/hYX0AlE1/CgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\Stagione Formula 1\\Stagione Formula 1\\Stagione Formula 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
